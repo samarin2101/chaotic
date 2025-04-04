@@ -81,9 +81,9 @@ $TERMINAL bash -c '
     fi
 
     if ! pacman -Qi yandex-browser-corporate &>/dev/null; then
-        yay -S yandex-browser-corporate --noconfirm
+        yay -S yandex-browser --noconfirm
     else
-        echo "yandex-browser-corporate уже установлен."
+        echo "yandex-browser уже установлен."
     fi
 
     read -p "Нажмите любую клавишу для выхода..."
