@@ -11,7 +11,8 @@
 
 - Arch Linux  
 - EndeavourOS  
-- CachyOS  
+- CachyOS
+- Manjaro (неофициально)
 - Garuda Linux (уже имеет Chaotic-AUR по умолчанию)
 
 > Если ваша система использует пакетный менеджер **pacman**, скрипт подходит.
